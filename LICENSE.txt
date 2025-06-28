@@ -1,2 +1,11 @@
-All rights reserved by Syuleyman Gospodev – June 2025.
-No part of this work may be copied, reproduced, or distributed without explicit written permission from the author.
+Copyright (c) 2025 Syuleyman Gospodev
+
+All rights reserved.
+
+This work, titled "SoulSignal – powered by Lumar", including its concept, logic, structure, naming, and philosophical framework, is protected under international copyright and intellectual property law.
+
+No part of this work may be copied, reproduced, translated, distributed, sold, sublicensed, adapted, or used in derivative works without the explicit written permission of the author.
+
+Any unauthorized use will be considered a violation of intellectual property rights.
+
+For licensing inquiries or permissions, please contact the author directly.
